@@ -26,7 +26,7 @@ function App() {
 
   return (
     <div className="container my-5">
-      <h1 className="mb-4 text-center">Event Validator</h1>
+      <h1 className="mb-4 text-center">Event Summary Viewer</h1>
 
       <div className="mb-3">
         <label htmlFor="jsonInput" className="form-label">
